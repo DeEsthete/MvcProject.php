@@ -1,5 +1,5 @@
 <?php
-
+namespace core;
 use Core\Config;
 use Medoo\Medoo;
 
